@@ -7,6 +7,8 @@ This is a module docstring, used to describe the functionality
 of a module and its functions and/or classes.
 """
 
+# Learning Python basics
+
 #TODO: define the 'EXPECTED_BAKE_TIME' constant.
 EXPECTED_BAKE_TIME = 40
 
