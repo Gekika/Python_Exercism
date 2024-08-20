@@ -1,5 +1,5 @@
 """Functions for implementing the rules of the classic arcade game Pac-Man."""
-
+# Learning about Boolean in Python 
 
 def eat_ghost(power_pellet_active, touching_ghost):
     """Verify that Pac-Man can eat a ghost if he is empowered by a power pellet.
